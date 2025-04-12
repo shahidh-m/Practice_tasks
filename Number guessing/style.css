@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(0, 0, 0);
+}
+body{
+    color: aliceblue;
+    text-align: center;
+}
+#btn{
+    background-color: green;
+    font-style:italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 5px;
+    size-adjust: 100px;
+    margin-top: 10px;
+}
+
+#one{
+    height: 20px;
+    width: 150px;
+    border-color: green;
+    border-radius: 5px;
+    color: aliceblue;
+}
